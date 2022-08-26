@@ -1,0 +1,14 @@
+sdk/Peripheral/ch32v30x_crc.o: \
+ C:/Users/Administrator/Desktop/github/smartcar-4/2022_03_04/NEFU_SeekLight/libraries/sdk/Peripheral/ch32v30x_crc.c \
+ C:/Users/Administrator/Desktop/github/smartcar-4/2022_03_04/NEFU_SeekLight/libraries/sdk/Peripheral/ch32v30x_crc.h \
+ C:/Users/Administrator/Desktop/github/smartcar-4/2022_03_04/NEFU_SeekLight/libraries/sdk/Peripheral/ch32v30x.h \
+ C:\Users\Administrator\Desktop\github\smartcar-4\2022_03_04\NEFU_SeekLight\libraries\sdk\Core/core_riscv.h \
+ C:\Users\Administrator\Desktop\github\smartcar-4\2022_03_04\NEFU_SeekLight\libraries\sdk\Startup/system_ch32v30x.h
+
+C:/Users/Administrator/Desktop/github/smartcar-4/2022_03_04/NEFU_SeekLight/libraries/sdk/Peripheral/ch32v30x_crc.h:
+
+C:/Users/Administrator/Desktop/github/smartcar-4/2022_03_04/NEFU_SeekLight/libraries/sdk/Peripheral/ch32v30x.h:
+
+C:\Users\Administrator\Desktop\github\smartcar-4\2022_03_04\NEFU_SeekLight\libraries\sdk\Core/core_riscv.h:
+
+C:\Users\Administrator\Desktop\github\smartcar-4\2022_03_04\NEFU_SeekLight\libraries\sdk\Startup/system_ch32v30x.h:
